@@ -1,7 +1,7 @@
 
 
 ## Hi there 👋
-🔭 I’m a software engineer intern with a deep interest in scalable systems and machine learning<br>🌱 I’m currently training in data science and machine learning<br>🔭 I have hands-on experience in Node.js building reliable backend architectures<br>⚡ Fun fact: I write to unpack what it takes to grow in tech: discipline, curiosity, and building momentum through consistent practice
+🔭 I’m a software engineer intern with a deep interest in scalable backend systems and machine learning<br>🌱 I’m currently training in data science and machine learning<br>🔭 I have hands-on experience in Node.js building reliable backend architectures<br>⚡ Fun fact: I write to unpack what it takes to grow in tech: discipline, curiosity, and building momentum through consistent practice
 
 
 ## 🌐 Socials:
