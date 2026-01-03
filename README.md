@@ -43,7 +43,7 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20Processing%20%7C%20Detection-9cf?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-9cf?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
@@ -53,6 +53,16 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Tooling
+
+![REST API](https://img.shields.io/badge/RESTful%20APIs-Design%20%26%20Integration-green?style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 
 # ⚡️ Let's connect:
