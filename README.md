@@ -10,7 +10,8 @@
 # ⚡️ Let's connect:
 <p><a target="_blank" href="https://www.linkedin.com/in/ayanfeoluwa-oluwasuan-93b19022b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://medium.com/@ayanfe1711" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://www.instagram.com/ayanfesonofthelord" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/ayanfesonofthelord" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="instagram" /></a>
+<a target="_blank" href="https://substack.com/@ayanfeoluwaoluwasuan?" style="display: inline-block;"><img src="https://img.shields.io/badge/substack-logo?style=for-the-badge&logo=substack&logoColor=white&color=orange" alt="substack" /></a></p>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayanfe03&theme=dark&hide_border=false)<br/>
