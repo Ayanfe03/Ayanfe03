@@ -44,7 +44,12 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Object%20Detection-9cf?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics%20%7C%20OBB-red?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+![Model Training](https://img.shields.io/badge/Model%20Training-Data%20Prep%20%7C%20Evaluation-informational?style=for-the-badge)
+![Dataset Annotation](https://img.shields.io/badge/Dataset%20Annotation-Bounding%20Boxes%20%7C%20OBB-blue?style=for-the-badge)
+![Model Inference](https://img.shields.io/badge/Inference%20%26%20Visualization-Real--World%20Evaluation-success?style=for-the-badge)
 
 ---
 
