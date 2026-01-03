@@ -1,7 +1,14 @@
 
 
-# Hi there 👋
-🔭 I’m a software engineer with a deep interest in scalable backend systems and machine learning<br>🌱 I’m currently learning data science and machine learning<br>🔭 I have hands-on experience in Node.js building reliable backend architectures<br>⚡ Fun fact: I write to unpack what it takes to grow in tech: discipline, curiosity, and building momentum through consistent practice
+# Hi there 👋  
+I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backend systems**, **intelligent APIs**, and **AI-powered applications**.
+
+🔭 I design and build backend architectures that handle real-world complexity.  
+🌱 I’m actively deepening my skills in **machine learning, data science, and applied AI**, with a strong focus on practical use cases.  
+🧠 I work at the intersection of **backend engineering and GenAI**, building chat systems, RAG pipelines, and tool-calling agents that interact with real services.  
+🛠 I enjoy turning messy product requirements into clean, maintainable systems.
+
+⚡ Fun fact: I write to unpack what it takes to grow in tech — discipline, curiosity, and compounding progress through consistent practice.
 
 
 # 💻 Tech Stack:
