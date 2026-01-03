@@ -8,7 +8,7 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 🧠 I work at the intersection of **backend engineering and GenAI**, building chat systems, RAG pipelines, and tool-calling agents that interact with real services.  
 🛠 I enjoy turning messy product requirements into clean, maintainable systems.
 
-⚡ Fun fact: I write to unpack what it takes to grow in tech — discipline, curiosity, and compounding progress through consistent practice.
+⚡ Fun fact: I write to unpack what it takes to grow in tech; discipline, curiosity, and compounding progress through consistent practice.
 
 
 ### 💻 Tech Stack & Systems
