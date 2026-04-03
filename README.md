@@ -78,7 +78,7 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 <a target="_blank" href="https://substack.com/@ayanfeoluwaoluwasuan?" style="display: inline-block;"><img src="https://img.shields.io/badge/substack-logo?style=for-the-badge&logo=substack&logoColor=white&color=orange" alt="substack" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Ayanfe03&theme=dark&hide_border=false)<br/
+![](https://nirzak-streak-stats.vercel.app/?user=Ayanfe03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanfe03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
