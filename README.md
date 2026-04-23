@@ -81,8 +81,7 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Ayanfe03&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanfe03&theme=dark&hide_border=true&layout=compact&count_private=true&cache_seconds=1800)
-![](https://streak-stats.demolab.com?user=Ayanfe03&theme=dark&hide_border=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
