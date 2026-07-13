@@ -80,8 +80,7 @@ I’m **Ayanfeoluwa**, a software engineer focused on building **scalable backen
 
 
 # 📊 GitHub Stats: 
-![](https://streak-stats.demolab.com?user=Ayanfe03&theme=dark&hide_border=true)
-
+![](https://streak-stats.demolab.com?user=Ayanfe03&theme=dark&hide_border=true&v=2)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
